@@ -7,7 +7,7 @@ module.exports.config = {
  name: "admin",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "RAJU OFCL",
  description: "Show Owner Info",
  commandCategory: "Info",
  usages: "admin",
@@ -25,18 +25,18 @@ module.exports.run = async ({ api, event }) => {
  const body = `
 👑 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢
 
-👤 Name : ${conf.AuthorName}
-🧸 NickName : ${conf.AuthorNickName}
-🚹 Gender : ${conf.AuthorGender}
-❤️ Relation : ${conf.AuthorRelationalStatus}
-🎂 Age : ${conf.AuthorAge}
-🕌 Religion : ${conf.AuthorReligion}
-🏡 Address : ${conf.AuthorLocation}
+👤 Name : ${conf.—𝐑𝐚𝐣𝐮  𝐎𝐟𝐜𝐥}
+🧸 NickName : ${conf.𝗥𝗔𝗝𝗨 }
+🚹 Gender : ${conf.MALE}
+❤️ Relation : ${conf.AKHIR  JAMAI}
+🎂 Age : ${conf.19+}
+🕌 Religion : ${conf.ISLAM}
+🏡 Address : ${conf.NOAKHALI}
 
 🌐 𝗖𝗢𝗡𝗧𝗔𝗖𝗧
 
 📘 Facebook :
-${conf.AuthorFacebook}
+${conf.https://www.facebook.com/raju.ofcl12?mibextid=rS40aB7S9Ucbxw6v}
 
 💬 Messenger :
 ${conf.AuthorMessenger}
@@ -45,7 +45,7 @@ ${conf.AuthorMessenger}
 ${conf.AuthorGithub}
 
 📲 WhatsApp :
-${conf.AuthorWhatsApp}
+${conf.https://wa.me/8801815896135}
 
 🕒 Updated
 📅 Date : ${date}
