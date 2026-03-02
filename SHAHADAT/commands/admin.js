@@ -17,7 +17,7 @@ module.exports.config = {
 
 module.exports.run = async ({ api, event }) => {
  const conf = global.config;
- const mediaLink = conf.AuthorPhoto;
+ const mediaLink = conf.https://instasize.com/p/e3e97a18e819024f57210138e1adc369f94d1c75ed46c95783d2820d8a7b8f82;
 
  const date = moment().tz("Asia/Dhaka").format("DD/MM/YYYY");
  const time = moment().tz("Asia/Dhaka").format("hh:mm:ss A");
@@ -28,7 +28,7 @@ module.exports.run = async ({ api, event }) => {
 👤 Name : ${conf.—𝐑𝐚𝐣𝐮  𝐎𝐟𝐜𝐥}
 🧸 NickName : ${conf.𝗥𝗔𝗝𝗨 }
 🚹 Gender : ${conf.MALE}
-❤️ Relation : ${conf.AKHIR  JAMAI}
+❤️ Relation : ${conf.AKHIR JAMAI}
 🎂 Age : ${conf.19+}
 🕌 Religion : ${conf.ISLAM}
 🏡 Address : ${conf.NOAKHALI}
@@ -42,7 +42,7 @@ ${conf.https://www.facebook.com/raju.ofcl12?mibextid=rS40aB7S9Ucbxw6v}
 ${conf.AuthorMessenger}
 
 🔰 GitHub :
-${conf.AuthorGithub}
+${conf.https://github.com/rajumeaw/Raju-s-bot.git}
 
 📲 WhatsApp :
 ${conf.https://wa.me/8801815896135}
