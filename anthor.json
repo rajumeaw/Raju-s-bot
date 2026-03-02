@@ -15,7 +15,7 @@
     "removeSt": false,
     "NOTIFICATION": true,
     "notiGroup": true,
-    "BOTNAME": "𝗦𝗔𝗛𝗨 𝗜𝗦𝗟𝗔𝗠𝗜𝗖 𝗕𝗢𝗧",
+    "BOTNAME": "𝗥𝗔𝗝𝗨'S 𝗕𝗢𝗧",
     "PREFIX": "/",
     "reactUnsend": [
         "😡",
@@ -24,16 +24,16 @@
         "😠"
     ],
     "ADMINBOT": [
-        "100044713412032",
-        "100047211079054",
-        "61587787857742"
+        "61582494879291",
+        "61552183725604",
+        "61552183725604"
     ],
     "NDH": [
         "100044713412032"
     ],
-    "AuthorName": "SHAHADAT SAHU",
-    "AuthorNickName": "সাহু",
-    "AuthorBotName": "SAHU ISLAMIC BOT",
+    "AuthorName": "RAJU OFCL",
+    "AuthorNickName": "রাজু",
+    "AuthorBotName": "RAJU ISLAMIC BOT",
     "AuthorGender": "Male",
     "AuthorAge": "18+",
     "AuthorReligion": "Islam",
