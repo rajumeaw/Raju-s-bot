@@ -6,7 +6,7 @@ module.exports.config = {
   name: "notice",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "SHAHADAT SAHU",
+  credits: "RAJU OFCL",
   description: "Send notice to all groups (text + media supported)",
   commandCategory: "Admin",
   usages: "/notice <text> or reply + /notice",
